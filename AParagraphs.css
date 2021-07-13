@@ -1,0 +1,38 @@
+
+.p1{color:rgb(152,188,184);
+	font-family:Calibri;
+    font-size:18px;
+	position:relative;
+	left:190px;
+	top:30px;
+	}
+.titleh{font-family:Broadway;
+        font-size:25px;
+		position:relative;
+		bottom:150px;
+		color:rgb(152,188,184);
+}
+.firstl{position:relative;
+        top:100px;
+		color:rgb(111,237,157);}
+p{position:relative;
+  bottom:150px;
+  font-family:Comic Sans MS;
+  font-size:18px;}
+.listp{position:relative;
+bottom:150px;
+font-family:Comic Sans MS;
+  font-size:18px;
+  }
+.listpc{position:relative;
+        bottom:150px;
+font-family:Tahoma;
+  font-size:18px;
+  color:white;
+  }
+.listpc a{color:aqua;
+          text-decoration:none;
+}
+.listpc a:hover{
+	color:gold;
+	}

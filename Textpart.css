@@ -1,0 +1,10 @@
+
+.textpart{background:black;
+         position:relative;
+		 top:40px;
+		 left:15%;
+		 width:80%;
+		 padding:20px;
+		 opacity:0.75;
+	     overflow:hidden;
+		 }

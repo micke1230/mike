@@ -1,0 +1,85 @@
+
+#ilink{color:black;
+text-align:center;
+padding:10px;
+background:rgba(104,104,104,0.75);
+height:200px;
+width:99.8%;
+position:relative;
+bottom:-8px;
+left:-10px;
+}
+.bold1{color:black;
+	position:relative;
+left:10px;}
+
+
+
+.bottom{background-color:white;
+ }
+ 
+ 
+ .google{position:relative;
+ right:100px;}
+
+.facebook{width:65px;
+          height:65px;
+		  border-radius:10px;
+	text-decoration:none;
+
+}
+.facebook:hover{width:70px;
+          height:70px;
+	text-decoration:none;
+}
+
+.twitter{width:65px;
+          height:65px;
+	position:relative;
+    left:20px;
+	border-radius:10px;
+}
+
+.twitter:hover{width:70px;
+          height:70px;
+	text-decoration:none;
+}
+
+
+.instagram{width:70px;
+          height:70px;
+	text-decoration:none;
+   position:relative;
+  left:40px;
+}
+
+.instagram:hover{width:75px;
+          height:75px;
+	text-decoration:none;
+}
+
+
+.pintrest{width:70px;
+          height:70px;
+	position:relative;
+ left:60px;
+}
+
+
+.pintrest:hover{width:75px;
+                height:75px;
+	            text-decoration:none;
+}
+
+.google{width:75px;
+        height:75px;
+        position:relative;
+        left:80px;
+		}
+
+.google:hover{width:80px;
+              height:80px;
+	          text-decoration:none;
+              }
+			 
+

@@ -1,0 +1,83 @@
+body{background:url(KBG.jpg);}
+
+.body{width:90%;
+      background:rgba(0,0,0,0.75);
+      position:absolute;
+       left:5%;}
+
+
+.car{width:400px;
+	 height:250px;
+     background-size:cover;
+     display:inline-block;
+	 margin-left:100px;
+}
+
+.one{
+
+	background-image:url('Images/Car Images/2016 GMC.jpeg');
+}
+
+.two{ 
+
+	background-image:url('Images/Car Images/2017 GMC.jpeg');
+}
+
+.three{
+	
+	background-image:url('Images/Car Images/2017-Chevrolet-Silverado-2500HD-Right-Front-Angle.jpg');
+}
+
+.four{
+	
+	background-image:url('Images/Car Images/2017-gmc-sierra-denali-25.jpg');
+}
+
+.five{
+	background-image:url('Images/Car Images/2018-Ford-F-150-Lariat-Sport.jpg');
+}
+
+.six{
+	
+	background-image:url('Images/Car Images/fordranger2016_01.jpg');
+}
+
+.seven{
+	
+	background-image:url('Images/Car Images/p6ql5yoj-626x382.jpg');
+}
+
+
+
+
+.carname{color:white;
+	     font-size:18px;
+	     font-family:Comic Sans MS;
+         position:relative;
+         left:200px;}
+
+.carlink{ font-weight:bold;
+	     font-size:18px;
+         font-family:Comic Sans MS;
+         color:white;
+         text-decoration:none;}
+
+.carlink:hover{
+	color:goldenrod;
+	transition:all 0.5s;
+           }
+
+
+.carname:nth-child(2n){
+	margin-left:520px;
+    position:relative;
+	bottom:20px;
+}
+
+.carname:nth-child(2n+1){
+	position:relative;
+	top:5px;
+}
+
+
+

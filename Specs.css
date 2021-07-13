@@ -1,0 +1,50 @@
+.whole{
+	background:url('Images/Home Page/Sports-Cars-Wallpapers.jpg');
+    background-size:cover;
+	height:562px;
+	width:100%;
+	position:relative;
+	overflow:hidden;
+}
+
+
+.h3{
+	font-size:40px;
+	font-style:italic;
+	position:relative;
+	top:50px;
+	left:150px;
+}
+
+.subspec{
+	font-family:High Tower Text;
+    font-size:26;
+	text-align:right;
+	position:relative;
+	right:100px;
+}
+
+.specs{
+ font-family:Palantiono Linotype;
+ color:white;
+ position:absolute;
+ bottom:0px;
+ right:0px;
+ margin-bottom:-400px;
+ width:100%;
+ opacity:0.78;
+ border-radius:10px;
+ background:rgba(31,31,31,1.00);
+-webkit-font-smoothing:antialiased;
+
+
+}
+
+.whole:hover .specs{
+margin-bottom:0px;
+transition:all 1.6s;	
+	}
+
+.stext{position:relative;
+	   left:10px;
+       }

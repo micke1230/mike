@@ -1,0 +1,61 @@
+body{background:url(KBG.jpg);}
+
+.body{
+	
+	background-color:rgba(0,0,0,0.6);
+	width:90%;
+	height:1100px;
+	position:relative;
+	left:5%;
+}
+
+
+.list{text-align:center;
+	position:relative;
+      top:50px;}
+.logo{border:none;}
+
+
+li>img{
+	width:350px;
+    height:250px;
+	position:relative;
+    top:20px;
+    border-radius:10px;
+}
+
+.frow{
+	  float:left;
+      text-decoration:justify;
+	  }
+
+.c2{
+	position:relative;
+left:10px;}
+
+.c3{position:relative;
+    left:20px;}
+
+.frow{
+   float:left;
+   list-style:none;
+   position:relative;
+   top:30px;
+  
+}
+
+
+.carname{
+	     position:relative;
+         top:4px;
+		 left:20px;
+        text-decoration:italic;
+         font-family:Tahoma;
+		 }
+.carlink{text-decoration:none;
+         color:white;}
+.carlink:hover{
+	color:gold;
+    transition:all 0.8s;
+
+}

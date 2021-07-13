@@ -1,0 +1,27 @@
+.body{background:rgba(0,0,0,0.65);
+	  color:white;
+	  width:80%;
+      position:relative;
+      left:10%;
+	  max-height:9999px;
+	  padding:15px;
+	 font-family:Helvetica;
+
+}
+
+strong{
+	   font-family:Comic Sans MS;
+	   font-size:60px;
+       font-style:italic;}
+.back{
+	  position:absolute;
+	  right:15px;
+	  text-decoration:none;
+	  color:darkcyan;
+      }
+
+.back:hover{
+	color:goldenrod;
+	transition:all 0.5s;
+	  
+}

@@ -1,0 +1,47 @@
+
+.mainimage{
+    background-size:cover;
+	position:relative;
+	left:50%;
+	width:480px;
+	height:320px;
+	overflow:hidden;
+}
+
+
+.specs{
+ font-family:Palantiono Linotype;
+ color:white;
+ position:absolute;
+ bottom:0px;
+ right:0px;
+ margin-bottom:-200px;
+ width:100%;
+ opacity:0.78;
+ border-radius:5px;
+ background:rgb(31,31,31);
+-webkit-font-smoothing:antialiased;
+ text-align:right;
+ font-size:24px;
+ font-style:italic;
+}
+
+
+.mainimage:hover .specs{
+	
+	margin-bottom:0px;
+	transition:all 2s;
+}
+
+
+.subspec{
+	position:relative;
+	right:40px;
+	
+}
+
+
+
+
+
+

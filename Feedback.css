@@ -1,0 +1,50 @@
+.feedback{background:rgba(0,0,0,0.75);
+          max-height:9999px;
+          width:80%;
+	      position:relative;
+	      left:5%;
+          color:white;
+          font-family:Tahoma;
+	      padding:50px;
+}
+
+input{background:black;
+         color:white;}
+
+.email{position:relative;
+	left:2.5px;}
+
+.no{position:relative;
+    left:20px;}
+
+.bad{position:relative;
+    left:20px;}
+
+.fine{position:relative;
+    left:40px;}
+
+textarea{position:relative;
+	     left:15px;
+	    background-color:black;
+        color:white;
+        }
+
+select{color:white;
+       background:black;}
+
+option{color:white;
+       background:black;}
+
+.submit{
+	border-radius:5px;
+	height:30px;
+	position:relative;
+    left:80%;}
+.submit:hover{
+	color:white;
+	background-color:darkcyan;
+	transition:all 0.8s;
+}
+
+
+

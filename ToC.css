@@ -1,0 +1,25 @@
+.toc{position:relative;
+     bottom:210px;
+	 border-right:1px solid rgb(198,181,118);
+	 width:150px;
+	 height:283px;
+	 padding:10px;
+	 font-size:20px;
+     font-family:Calibri; 
+}
+.letter{color:rgb(152,188,184);
+	font-size:20px;
+     font-family:Calibri; 
+	 position:relative;
+	 top:40px;
+	 }	
+
+	 
+.start{position:relative;
+       top:40px;
+       font-size:20px;
+       font-family:Tahoma; 
+	   color:rgb(152,188,184);
+	   text-decoration:none;}
+.start:hover{color:rgb(198,181,118);
+             text-decoration:underline;}
